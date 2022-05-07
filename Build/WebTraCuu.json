@@ -1,7 +1,7 @@
 {
 "companyName": "MinhAnh",
 "productName": "ELink",
-"productVersion": "1.4",
+"productVersion": "1.5",
 "dataUrl": "WebTraCuu.data.unityweb",
 "wasmCodeUrl": "WebTraCuu.wasm.code.unityweb",
 "wasmFrameworkUrl": "WebTraCuu.wasm.framework.unityweb",
